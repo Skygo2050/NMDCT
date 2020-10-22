@@ -85,7 +85,7 @@ text-align: end;
     margin-bottom: 2px;
 }
 body{
-    background-image: url("images/bg12.jpg");
+    background-image: url("bg12.jpg");
     z-index: -2;
     opacity: inherit;
     background-attachment: fixed;
